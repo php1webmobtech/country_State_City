@@ -1,2 +1,2 @@
 # country_State_City
-Country, State and City JSON File
+All Countries, Cities, States with ISO2, ISO3, Country Code, Phone Code, Capital and Currency
